@@ -1,5 +1,5 @@
 # vietnam-zones-db
-Gói database cung cấp dữ liệu các Tỉnh/Thành phố cập nhật mới nhất 30.6.2025 cùng các phiên bản hỗ trợ dự án PHP, MySQL và Laravel
+Gói database cung cấp dữ liệu các 34 Tỉnh/Thành phố, 3321 Xã/Phường cập nhật mới nhất 30.6.2025 cùng các phiên bản hỗ trợ dự án PHP, MySQL và Laravel.
 
 ## Các định dạng dữ liệu
     - /data/exel: cấu trúc file dạng exel, xem trên Google sheet hoặc Windows.
