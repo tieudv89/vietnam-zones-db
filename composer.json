@@ -1,0 +1,20 @@
+{
+  "name": "tieudv89/vietnam-zones-db",
+  "description": "Vietnam zones data (provinces, wards) as JSON/SQL + PHP library (framework-agnostic + Laravel support)",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tieu Dang Van",
+      "email": "tieudv89@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "VietnamZoneDB\\": "src/"
+    }
+  }
+}

@@ -1,0 +1,308 @@
+[
+    {
+        "id": 1,
+        "country_id": 203,
+        "name": "Hà Nội",
+        "code": "101",
+        "type": "Thành phố",
+        "latitude": 21.0278,
+        "longitude": 105.8342
+    },
+    {
+        "id": 2,
+        "country_id": 203,
+        "name": "Bắc Ninh",
+        "code": "223",
+        "type": "Tỉnh",
+        "latitude": 21.1667,
+        "longitude": 106.0833
+    },
+    {
+        "id": 3,
+        "country_id": 203,
+        "name": "Quảng Ninh",
+        "code": "225",
+        "type": "Tỉnh",
+        "latitude": 21.0355,
+        "longitude": 107.1672
+    },
+    {
+        "id": 4,
+        "country_id": 203,
+        "name": "Hải Phòng",
+        "code": "103",
+        "type": "Thành phố",
+        "latitude": 20.8449,
+        "longitude": 106.6881
+    },
+    {
+        "id": 5,
+        "country_id": 203,
+        "name": "Hưng Yên",
+        "code": "109",
+        "type": "Tỉnh",
+        "latitude": 20.8681,
+        "longitude": 106.0532
+    },
+    {
+        "id": 6,
+        "country_id": 203,
+        "name": "Ninh Bình",
+        "code": "117",
+        "type": "Tỉnh",
+        "latitude": 20.2504,
+        "longitude": 105.978
+    },
+    {
+        "id": 7,
+        "country_id": 203,
+        "name": "Cao Bằng",
+        "code": "203",
+        "type": "Tỉnh",
+        "latitude": 22.6695,
+        "longitude": 106.2488
+    },
+    {
+        "id": 8,
+        "country_id": 203,
+        "name": "Tuyên Quang",
+        "code": "211",
+        "type": "Tỉnh",
+        "latitude": 21.8232,
+        "longitude": 105.2241
+    },
+    {
+        "id": 9,
+        "country_id": 203,
+        "name": "Lào Cai",
+        "code": "205",
+        "type": "Tỉnh",
+        "latitude": 22.4833,
+        "longitude": 103.9667
+    },
+    {
+        "id": 10,
+        "country_id": 203,
+        "name": "Thái Nguyên",
+        "code": "215",
+        "type": "Tỉnh",
+        "latitude": 21.5938,
+        "longitude": 105.852
+    },
+    {
+        "id": 11,
+        "country_id": 203,
+        "name": "Lạng Sơn",
+        "code": "209",
+        "type": "Tỉnh",
+        "latitude": 21.85,
+        "longitude": 106.75
+    },
+    {
+        "id": 12,
+        "country_id": 203,
+        "name": "Phú Thọ",
+        "code": "217",
+        "type": "Tỉnh",
+        "latitude": 21.3205,
+        "longitude": 105.3131
+    },
+    {
+        "id": 13,
+        "country_id": 203,
+        "name": "Điện Biên",
+        "code": "301",
+        "type": "Tỉnh",
+        "latitude": 21.3974,
+        "longitude": 103.0102
+    },
+    {
+        "id": 14,
+        "country_id": 203,
+        "name": "Lai Châu",
+        "code": "302",
+        "type": "Tỉnh",
+        "latitude": 22.4089,
+        "longitude": 103.4356
+    },
+    {
+        "id": 15,
+        "country_id": 203,
+        "name": "Sơn La",
+        "code": "303",
+        "type": "Tỉnh",
+        "latitude": 21.3333,
+        "longitude": 103.9167
+    },
+    {
+        "id": 16,
+        "country_id": 203,
+        "name": "Thanh Hóa",
+        "code": "401",
+        "type": "Tỉnh",
+        "latitude": 19.8067,
+        "longitude": 105.7915
+    },
+    {
+        "id": 17,
+        "country_id": 203,
+        "name": "Nghệ An",
+        "code": "403",
+        "type": "Tỉnh",
+        "latitude": 19.3333,
+        "longitude": 104.8333
+    },
+    {
+        "id": 18,
+        "country_id": 203,
+        "name": "Hà Tĩnh",
+        "code": "405",
+        "type": "Tỉnh",
+        "latitude": 18.342,
+        "longitude": 105.9052
+    },
+    {
+        "id": 19,
+        "country_id": 203,
+        "name": "Quảng Trị",
+        "code": "409",
+        "type": "Tỉnh",
+        "latitude": 16.7461,
+        "longitude": 107.0911
+    },
+    {
+        "id": 20,
+        "country_id": 203,
+        "name": "Huế",
+        "code": "411",
+        "type": "Tỉnh",
+        "latitude": 16.4637,
+        "longitude": 107.5909
+    },
+    {
+        "id": 21,
+        "country_id": 203,
+        "name": "Đà Nẵng",
+        "code": "501",
+        "type": "Thành phố",
+        "latitude": 16.0544,
+        "longitude": 108.2022
+    },
+    {
+        "id": 22,
+        "country_id": 203,
+        "name": "Quảng Ngãi",
+        "code": "505",
+        "type": "Tỉnh",
+        "latitude": 15.1201,
+        "longitude": 108.7931
+    },
+    {
+        "id": 23,
+        "country_id": 203,
+        "name": "Khánh Hòa",
+        "code": "511",
+        "type": "Tỉnh",
+        "latitude": 12.2388,
+        "longitude": 109.1967
+    },
+    {
+        "id": 24,
+        "country_id": 203,
+        "name": "Gia Lai",
+        "code": "603",
+        "type": "Tỉnh",
+        "latitude": 13.9754,
+        "longitude": 108.0153
+    },
+    {
+        "id": 25,
+        "country_id": 203,
+        "name": "Đắk Lắk",
+        "code": "605",
+        "type": "Tỉnh",
+        "latitude": 12.6896,
+        "longitude": 108.0596
+    },
+    {
+        "id": 26,
+        "country_id": 203,
+        "name": "Lâm Đồng",
+        "code": "703",
+        "type": "Tỉnh",
+        "latitude": 11.9404,
+        "longitude": 108.4583
+    },
+    {
+        "id": 27,
+        "country_id": 203,
+        "name": "Tây Ninh",
+        "code": "709",
+        "type": "Tỉnh",
+        "latitude": 11.3193,
+        "longitude": 106.1389
+    },
+    {
+        "id": 28,
+        "country_id": 203,
+        "name": "Đồng Nai",
+        "code": "713",
+        "type": "Tỉnh",
+        "latitude": 10.8231,
+        "longitude": 106.6297
+    },
+    {
+        "id": 29,
+        "country_id": 203,
+        "name": "Hồ Chí Minh",
+        "code": "701",
+        "type": "Thành phố",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 30,
+        "country_id": 203,
+        "name": "Vĩnh Long",
+        "code": "809",
+        "type": "Tỉnh",
+        "latitude": 10.2471,
+        "longitude": 105.964
+    },
+    {
+        "id": 31,
+        "country_id": 203,
+        "name": "Đồng Tháp",
+        "code": "803",
+        "type": "Tỉnh",
+        "latitude": 10.4815,
+        "longitude": 105.6303
+    },
+    {
+        "id": 32,
+        "country_id": 203,
+        "name": "An Giang",
+        "code": "805",
+        "type": "Tỉnh",
+        "latitude": 10.381,
+        "longitude": 105.4323
+    },
+    {
+        "id": 33,
+        "country_id": 203,
+        "name": "Cần Thơ",
+        "code": "815",
+        "type": "Tỉnh",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "id": 34,
+        "country_id": 203,
+        "name": "Cà Mau",
+        "code": "823",
+        "type": "Tỉnh",
+        "latitude": 9.1763,
+        "longitude": 105.1524
+    }
+]

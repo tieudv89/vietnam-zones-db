@@ -1,0 +1,34 @@
+1	01	Thành phố Hà Nội	101
+2	02	Tỉnh Bắc Ninh	223
+3	03	Tỉnh Quảng Ninh	225
+4	04	Tp Hải Phòng	103
+5	05	Tỉnh Hưng Yên	109
+6	06	Tỉnh Ninh Bình	117
+7	07	Tỉnh Cao Bằng	203
+8	08	Tỉnh Tuyên Quang	211
+9	09	Tỉnh Lào Cai	205
+10	10	Tỉnh Thái Nguyên	215
+11	11	Tỉnh Lạng Sơn	209
+12	12	Tỉnh Phú Thọ	217
+13	13	Tỉnh Điện Biên	301
+14	14	Tỉnh Lai Châu	302
+15	15	Tỉnh Sơn La	303
+16	16	Tỉnh Thanh Hóa	401
+17	17	Tỉnh Nghệ An	403
+18	18	Tỉnh Hà Tĩnh	405
+19	19	Tỉnh Quảng Trị	409
+20	20	Thành phố Huế	411
+21	21	Tp Đà Nẵng	501
+22	22	Tỉnh Quảng Ngãi	505
+23	23	Tỉnh Khánh Hòa	511
+24	24	Tỉnh Gia Lai	603
+25	25	Tỉnh Đắk Lắk	605
+26	26	Tỉnh Lâm Đồng	703
+27	27	Tỉnh Tây Ninh	709
+28	28	Tỉnh Đồng Nai	713
+29	29	Tp Hồ Chí Minh	701
+30	30	Tỉnh Vĩnh Long	809
+31	31	Tỉnh Đồng Tháp	803
+32	32	Tỉnh An Giang	805
+33	33	Tp Cần Thơ	815
+34	34	Tỉnh Cà Mau	823
